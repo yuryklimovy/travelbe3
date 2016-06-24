@@ -1,0 +1,10 @@
+@import "reset";
+@import "clearfix";
+body, html{
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+@import "logo";
+@import "header";
+@import "post";
